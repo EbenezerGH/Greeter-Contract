@@ -1,5 +1,7 @@
 Basic hello world contract deployed to rinkby testnet
 
+**[Link To Article](https://link.medium.com/yErFVTu8XT)**
+
 #### sources
 1) https://www.ethereum.org/greeter
 2) https://github.com/poanetwork/solidity-flattener
